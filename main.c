@@ -26,3 +26,7 @@ int hurensohn() {
     printf("Hurensohn");
     return 0;
 }
+
+void kacke() {
+    printf("Kacke");
+}
