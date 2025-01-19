@@ -25,3 +25,7 @@ int main() {
 void schwanz() {
     printf("schwanz");
 }
+
+void hs() {
+    printf("Hs");
+}
