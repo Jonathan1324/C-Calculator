@@ -38,3 +38,11 @@ void squidGame() {
 void Hi() {
     printf("Hi");
 }
+
+void kacke() {
+    printf("Kacke");
+}
+
+char* test() {
+    return "test";
+}
