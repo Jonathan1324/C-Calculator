@@ -30,3 +30,7 @@ int hurensohn() {
 void kacke() {
     printf("Kacke");
 }
+
+char* test() {
+    return "test";
+}
