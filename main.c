@@ -34,3 +34,7 @@ void Luemmel() {
 void squidGame() {
     printf("Squid Game");
 }
+
+void Hi() {
+    printf("Hi");
+}
