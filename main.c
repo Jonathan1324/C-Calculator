@@ -32,4 +32,28 @@ void arsch() {
 
 void hs() {
     printf("Hs");
+
+int hurensohn() {
+    printf("Hurensohn");
+    return 0;
+}
+
+void Luemmel() {
+    printf("Luemmel");
+}
+
+void squidGame() {
+    printf("Squid Game");
+}
+
+void Hi() {
+    printf("Hi");
+}
+
+void kacke() {
+    printf("Kacke");
+}
+
+char* test() {
+    return "test";
 }
