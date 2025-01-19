@@ -26,3 +26,11 @@ int hurensohn() {
     printf("Hurensohn");
     return 0;
 }
+
+void Luemmel() {
+    printf("Luemmel");
+}
+
+void squidGame() {
+    printf("Squid Game");
+}
