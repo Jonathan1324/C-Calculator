@@ -32,6 +32,7 @@ void arsch() {
 
 void hs() {
     printf("Hs");
+}
 
 int hurensohn() {
     printf("Hurensohn");
