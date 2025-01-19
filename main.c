@@ -21,3 +21,8 @@ int main() {
 
     return 0;
 }
+
+int hurensohn() {
+    printf("Hurensohn");
+    return 0;
+}
