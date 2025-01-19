@@ -46,3 +46,7 @@ void kacke() {
 char* test() {
     return "test";
 }
+
+void test2() {
+    printf("test2");
+}
