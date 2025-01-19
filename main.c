@@ -22,6 +22,17 @@ int main() {
     return 0;
 }
 
+void schwanz() {
+    printf("schwanz");
+}
+
+void arsch() {
+    printf("arsch");
+}
+
+void hs() {
+    printf("Hs");
+
 int hurensohn() {
     printf("Hurensohn");
     return 0;
