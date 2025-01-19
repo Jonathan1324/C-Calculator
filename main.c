@@ -29,3 +29,7 @@ void schwanz() {
 void arsch() {
     printf("arsch");
 }
+
+void hs() {
+    printf("Hs");
+}
