@@ -27,6 +27,18 @@ int hurensohn() {
     return 0;
 }
 
+void Luemmel() {
+    printf("Luemmel");
+}
+
+void squidGame() {
+    printf("Squid Game");
+}
+
+void Hi() {
+    printf("Hi");
+}
+
 void kacke() {
     printf("Kacke");
 }
